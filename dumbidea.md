@@ -5,4 +5,4 @@
 
 """Says hello to the world"""
 
-print("Hello World")
+print("Hello, World!")
